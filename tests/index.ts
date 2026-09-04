@@ -1,0 +1,12 @@
+import "./bot.test.js";
+import "./config.test.js";
+import "./df-audit.test.js";
+import "./df-orchestrate.test.js";
+import "./df-plan.test.js";
+import "./df-verify.test.js";
+import "./enforcement-rules.test.js";
+import "./managed-sync.test.js";
+import "./script-policy.test.js";
+import "./repository-setup.test.js";
+import "./server.test.js";
+import "./status.test.js";
